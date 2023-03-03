@@ -56,7 +56,7 @@ Load seurat objects (already subsetted) or continue
 
 #Load combined seurat objects
 
-pure<-readRDS("/Users/carosegami/Dropbox/SC_numero2/Analysis/purespecies.rds")
+pure<-readRDS("../purespecies.rds")
 
 ```
 
