@@ -25,8 +25,6 @@ library(ggsci)
 
 ## Load data (alreadt subsetted and normalized)
 
-Already did pseudotime with slingshot (missing velocyto)
-Order: clus_order<-c() DS2020pureminus0.sct.rds
 
 ```{r loadData}
 fl.combined.sct<-readRDS("../DS2020pureminus0.sct.rds")
@@ -1266,7 +1264,7 @@ phyper((25-1),590,13630,500, lower.tail = F) # p=0.193094
 
 ```
 
-```{dnds r}
+```{r dnds}
 
 
 ######################################################
@@ -1538,7 +1536,7 @@ chisq.posthoc.test::chisq.posthoc.test(x, method = "bonferroni")
 
 ```
 
-```{comparison_DS1-DS2 r}
+```{r comparison_DS1-DS2}
 #read avg exp files for both datasets
 
 library(reshape2)
