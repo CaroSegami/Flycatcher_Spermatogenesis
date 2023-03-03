@@ -5,4 +5,4 @@ The two markdown files are the ones needed to reproduce the downstream analysis 
 
 Clustering_2022_DS2_finalcode.Rmd is the file to start with. 
 
-The .rds files are too big to be posted here but will be made available upon request, just send an email to: carolina.segami@duke.edu. All other files needed are provided here.
+The .loom and .rds files are too big to be posted here but will be made available upon request, just send an email to: carolina.segami@duke.edu. All other files needed are provided here.
