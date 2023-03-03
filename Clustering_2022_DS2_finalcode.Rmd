@@ -9,7 +9,7 @@ editor_options:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = "/Users/carosegami/Dropbox/SC_numero2/Analysis")
+knitr::opts_knit$set(root.dir = "../Analysis")
 ```
 
 ## Code for clustering single cells of 6 individuals of Dataset 2 of the study.
